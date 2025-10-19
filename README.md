@@ -107,5 +107,5 @@ Do not change the deadline string format if you want the app to parse it correct
 ---
 
 ## License
-- Apache License, Version 2.0  Copyright [2025] [Salai Hari Prasanna]
+- Apache License, Version 2.0  Copyright 2025 Salai Hari Prasanna
 
